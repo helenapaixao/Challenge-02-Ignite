@@ -51,6 +51,7 @@ export function SideBar() {
       });
   }, [selectedGenreId]);
 
+  
   return (
     <nav className="sidebar">
       <span>
